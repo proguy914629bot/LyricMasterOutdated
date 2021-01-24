@@ -1,11 +1,11 @@
 {
-    "ClientID": 755291533632077834,
-    "clientsecret": "05V_Qyigm13-WOk3NdA5MJIz9TjXiivD",
-    "publickey": "ab3184dab5e8ae5c6448ede208b85b336f951111452ebd95733b2ed549bb1682",
-    "token": "NzU1MjkxNTMzNjMyMDc3ODM0.X2BKDg.cfJAQlz2sV83etEVLk2PZy9jkvo",
-    "mongo": "mongodb+srv://LyricMasterBot:JzsqUe7QIUU54wbI@cluster0.gxxej.mongodb.net/LyricMaster?retryWrites=true&w=majority",
-    "rapidapi-key": "4a66bf4aeemsh7b7395bd9b388b2p11fa5ajsn1fcd53698919",
-    "github-key": "09a645a5593db2a2440cae0abf8392ad8bf5eebf",
-    "newsapi-key": "0ef985321ab241a3ae96a073055e8959",
-    "nyt-key": "hlThoUrPjbTeH7VLvHBjQ3D0z9kXQ2s0"
+    "ClientID": "Bot Client ID",
+    "clientsecret": "Bot Client Secret",
+    "publickey": "Bot Public Key",
+    "token": "Bot Token",
+    "mongo": "Mongodb Key",
+    "rapidapi-key": "RapidAPI Token/Key",
+    "github-key": "Github Token",
+    "newsapi-key": "News API Key",
+    "nyt-key": "Your Ney York Times Key"
 }

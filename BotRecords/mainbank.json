@@ -1,0 +1,54 @@
+{
+    "699839134709317642": {
+        "wallet": 0,
+        "bank": 7930207801,
+        "bag": [
+            {
+                "item": "watch",
+                "amount": 2,
+                "price": 150
+            },
+            {
+                "item": "The Most Expensive Thing in the Game. (Which does not even exist anymore)",
+                "amount": 1,
+                "price": 6666666666
+            },
+            {
+                "item": "laptop",
+                "amount": 1,
+                "price": 500
+            }
+        ]
+    },
+    "561469429595242497": {
+        "wallet": 760,
+        "bank": 6666666666
+    },
+    "621266489596444672": {
+        "wallet": 76,
+        "bank": 25403182459,
+        "bag": [
+            {
+                "item": "pc",
+                "amount": 1,
+                "price": 1500
+            }
+        ]
+    },
+    "717978046002364438": {
+        "wallet": 311,
+        "bank": 6666666666
+    },
+    "737478714048380939": {
+        "wallet": 751,
+        "bank": 6666666666
+    },
+    "695541195505664070": {
+        "wallet": 727,
+        "bank": 6666666666
+    },
+    "621313044743716865": {
+        "wallet": 750,
+        "bank": 250
+    }
+}

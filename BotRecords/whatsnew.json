@@ -1,0 +1,10 @@
+{
+    "1.0.0": "LyricMaster's Original Version! Please update!",
+    "1.0.1": "Fixed some typos",
+    "1.1.0": "Security improvements and more useful commands",
+    "1.2.0": "Added Loggings. You can use logging commands by doing `lm?logs`",
+    "1.2.1": "Fixed some more typos.",
+    "1.2.5": "Fixed the logging to be better and quicker.",
+    "1.3.0": "Added much more Discord Intents",
+    "1.3.1": "Fixed some Discord Permissions and Typos."
+}

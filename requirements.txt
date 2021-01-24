@@ -1,0 +1,13 @@
+discord
+asyncio
+DiscordUtils
+lyrics_extractor
+discord-flags
+requests
+aiohttp
+git+https://github.com/Rapptz/discord-ext-menus
+motor
+mystbin.py
+spotipy
+spotdl
+youtube-dl

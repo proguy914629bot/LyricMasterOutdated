@@ -10,4 +10,5 @@ motor
 mystbin.py
 spotipy
 spotdl
+polaroid
 youtube-dl
